@@ -1,10 +1,13 @@
-demo_video: "A reference demo video has been attached. Please take a look for a walkthrough of the project."
+# Project Name
 
-features_implemented:
-  - "The code for user signup and registration has been implemented."
-  - "New users are required to be verified by an administrator after their details are reviewed."
+## Demo Video
+You can watch the demo video [here on Google Drive](https://drive.google.com/file/d/10fg_BfMXbVM5SIEqc1fNlxmdPj357DGs/view).
 
-technologies_used:
-  - "PHP"
-  - "MySQL"
-  - "Apache Server (via XAMPP)"
+## Features Implemented
+- The code for user signup and registration has been implemented.
+- New users are required to be verified by an administrator after their details are reviewed.
+
+## Technologies Used
+- PHP
+- MySQL
+- Apache Server (via XAMPP)
