@@ -1,4 +1,4 @@
-# Project Name
+# NALUM DEMO PROJECT
 
 ## Demo Video
 You can watch the demo video [here on Google Drive](https://drive.google.com/file/d/10fg_BfMXbVM5SIEqc1fNlxmdPj357DGs/view).
